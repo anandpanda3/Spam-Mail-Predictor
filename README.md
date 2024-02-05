@@ -1,1 +1,1 @@
-<h1><b>Spam Mail Prediction using ML/b></h1>
+<h1><b>Spam Mail Prediction using ML</b></h1>
