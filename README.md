@@ -5,3 +5,4 @@ Mails can be primarily classified into two categories:
 2) Ham Mails : They refer to messages that are solicited or expected by the recipients. These emails are typically relevant, wanted, and come from known or trusted sources.
 <h3><b> Workflow</b></h3>
 <img src=""C:\Users\KIIT\Desktop\misc\WhatsApp Image 2024-02-05 at 20.01.00_76568221.jpg"" alt="Worflow chart">
+![WhatsApp Image 2024-02-05 at 20 01 00_76568221](https://github.com/anandpanda3/Spam-Mail-Predictor/assets/123104076/c2564673-686e-42df-8f09-5b5add059e1c)
