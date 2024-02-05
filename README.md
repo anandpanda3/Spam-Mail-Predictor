@@ -1,2 +1,1 @@
-# javascript
-<b> code repo for learning javascript </b>
+<h1><b>Spam Mail Prediction using ML/b></h1>
